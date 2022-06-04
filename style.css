@@ -1,0 +1,247 @@
+html{
+            height: 100%;
+        }
+        body{
+            height: 100%;
+            padding: 0;
+            margin: 0;
+        }
+        
+        .map{
+            height: 100%;
+            width: 100%;
+            background-image: url(bg.jpg);
+            background-size: 100% 100%;
+           
+        }
+        .loc1{
+              height: 100%;
+            width: 100%;
+            background-image: url("bg4.jpg");
+             display: none;
+        }
+        .loc2{
+              height: 100%;
+            width: 100%;
+            background-image: url("bg2.jpg");
+             display: none;
+        }
+        .loc3{
+              height: 100%;
+            width: 100%;
+            background-image: url("bg3.jpg");
+              background-size: 100% 100%;
+            display: none;
+        }
+        .d1{
+            width: 100px;
+            height: 100px;
+            position: absolute;
+            
+             top: 60%;
+            left: 85%;
+            background-image: url("d3.jpg");
+             background-size: 100% 100%;
+              border-radius: 100px;
+        }
+        .d2{
+            width: 100px;
+            height: 100px;
+            position: absolute;
+            background-size: 100% 100%;
+             border-radius: 100px;
+            top: 30%;
+            left: 11%;
+            background-image: url("d1.jpg");
+        }
+        .d3{
+            width: 100px;
+            height: 100px;
+            position: absolute;
+            top: 45%;
+            left: 33%;
+            background-image: url("d2.jfif");
+             background-size: 100% 100%;
+             border-radius: 100px;
+        }
+        .zad{
+            width: 500px;
+            height: 100px;
+            position: absolute;
+            top: 100px;
+            left: 600px;
+             background-color: saddlebrown;
+             border-radius: 110px;
+             
+             border: solid burlywood 5px;
+
+             color: burlywood;
+        }
+        .uch{
+            height: 500px;
+            width: 200px;
+            position: absolute;
+            top: 200px;
+            left: 1050px;
+            background-size: 100% 100%;
+            background-image: url("uch.png");
+        }
+        .lc1d{
+            width: 150px;
+            height: 150px;
+            margin-left: 50px;
+            background-color: white;
+            border: solid burlywood 5px;
+
+        }
+        .lc1r{
+            display: flex;
+            width: 700px;
+            height: 150px;
+            position: absolute;
+            top: 300px;
+        }
+        .lc2r{
+            display: flex;
+            width: 700px;
+            height: 150px;
+            position: absolute;
+            top: 500px;
+        }
+        .r1{
+            background-image: url("g2.jpg");
+             background-size: 120% 100%;
+             border-radius: 70px;
+        }
+        .r2{
+            background-image: url("g1.jpg");
+             background-size: 110% 100%;
+             border-radius: 70px;
+        }
+        .w1{
+              background-image: url("g3.jpg");
+             background-size: 110% 100%;
+             border-radius: 70px;
+        }
+        .w2{
+              background-image: url("g4.jpg");
+             background-size: 110% 100%;
+             border-radius: 70px;
+        }
+        .w3{
+              background-image: url("g5.jpg");
+             background-size: 110% 100%;
+             border-radius: 70px;
+        }
+        .w4{
+              background-image: url("g6.jpg");
+             background-size: 110% 100%;
+             border-radius: 70px;
+        }
+     
+    .bg{
+        background-image: url(bg2.jpg);
+        background-size: 100% 100%;
+        height: 750px;
+    }
+    .d12{
+        height: 150px;
+        width: 150px;
+        position: absolute;
+            background-image: url("k1.png");
+            background-size: 100% 100%;
+        
+    }
+    .img{
+        background-image: url(1.png);
+        background-size: 100% 100%;
+        height: 70px;
+        border-radius: 100px;
+    }
+    .per{
+        position: absolute;
+        height: 500px;
+        width: 200px;
+        background-color: yellow;
+        top: 200px;
+        left: 450px;
+    }
+    .wrd{
+        position: absolute;
+        height: 100%;
+        top: 0px;
+        width: 500px;
+        left: 1030px;
+        background-color: red;
+    }
+    .result{
+        height: 300px;
+        width: 400px;
+        background-color: yellowgreen;
+        position: absolute;
+        top: 250px;
+        left: 580px;
+        display: none;
+    }
+    .art1{
+        position: absolute;
+        height: 20px;
+        width: 30px;
+        background-image: url("a3.png");
+        background-size: 100% 100%;
+    }
+    .a1{
+        top: 400px;
+        left: 348px;
+    }
+    .a2{
+        top: 324px;
+        left: 456px;
+    }
+    .a3{
+        top: 234px;
+        left: 468px;
+    }
+    .a4{
+        top: 247px;
+        left: 985px;
+    }
+    .a5{
+        top: 135px;
+        left: 627px;
+    }
+    .a6{
+        top: 234px;
+        left: 1234px;
+
+    }
+     .a7{
+        top: 463px;
+        left: 1423px;
+        
+    }
+     .a8{
+        top: 534px;
+        left: 1034px;
+        
+    }
+     .a9{
+        top: 424px;
+        left: 1234px;
+        
+    }
+     .a10{
+        top: 524px;
+        left: 134px;
+        
+    }
+     .a11{
+        top: 634px;
+        left: 1234px;
+        
+    }
+     .a12{
+        top: 378px;
+        left: 834px;
+        
+    }
